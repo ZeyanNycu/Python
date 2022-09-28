@@ -7,6 +7,6 @@
   1.在commander打 $auto-py-to-exe 
   
   2.出現的畫面，並把選項勾成下面的模樣
-    ![image](https://user-images.githubusercontent.com/105538527/192677060-1b4ec627-bc93-408b-bb5d-070a4ecca603.png)
+    ![image](https://user-images.githubusercontent.com/105538527/192677416-2a93813a-fc44-42d2-a50d-d92badf531d4.png)
     
   3.就可以開始compile
