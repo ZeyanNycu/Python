@@ -1,7 +1,5 @@
-可以用安裝檔下載的話用安裝檔下載
+把code下載下來(全部都要包含img，sound.....)
 
+然後下載pygame這個package，下載完後應該可以玩這遊戲
 
-失敗的話可以把code，抓過去，然後用 autp-py-to-exe這個package去把main轉成執行檔
-
-
-如果要compile的話要下載 pygame 這個package
+最後用autu-py-to-exe把main.py打包成main.exe，這樣就可以直接執行
